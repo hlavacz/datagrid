@@ -23,6 +23,7 @@ $grid->addExportCallback($text, $callback, $filtered = false);
 ```
 
 You can tell whether to use ajax or not (`->setAjax()`). Or a button title (`->setTitle('Title')`).
+Or target (`->setTarget('_blank')`).
 
 ## CSV export
 
